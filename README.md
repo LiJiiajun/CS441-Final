@@ -1,4 +1,5 @@
 # CS441-Final
+## Trained by Colab
 ## Dataset (Google Drive)
 Download: https://drive.google.com/drive/folders/1rWNs7npaQc1V3Mi109pB1A7AkxpoPFOY?usp=sharing
 ```text
